@@ -31,7 +31,7 @@ These are the notes from a meeting with the frontend developer that describe wha
 {
     "firstName": "Ibrahim",
     "lastName": "Ahmed",
-    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.     eyJ1c2VyIjp7ImlkIjoxLCJmaXJzdF9uYW1lIjoiSWJyYWhpbSIsImxhc3RfbmFtZSI6IkFobWVkIiwicGFzc3dvcmQiOiIkMmIkMTAkak5LYktoL2d5TmFPbTNSWlAuRkVzTzlqUk95Q253N3FES1dwZ3lLRmYzTC9TUDJpRWNYcXEifSwiaWF0IjoxNjQ3MzgwNjQyfQ.3KMRCco-baH66coKIMau2LsKGMcWajDBf0tONHOS550"
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxLCJmaXJzdF9uYW1lIjoiSWJyYWhpbSIsImxhc3RfbmFtZSI6IkFobWVkIiwicGFzc3dvcmQiOiIkMmIkMTAkak5LYktoL2d5TmFPbTNSWlAuRkVzTzlqUk95Q253N3FES1dwZ3lLRmYzTC9TUDJpRWNYcXEifSwiaWF0IjoxNjQ3MzgwNjQyfQ.3KMRCco-baH66coKIMau2LsKGMcWajDBf0tONHOS550"
 }
 ```
 - For user:
